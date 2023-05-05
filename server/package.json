@@ -2,13 +2,13 @@
   "name": "server",
   "version": "1.0.0",
   "type": "module",
-  "description": "Server",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Oltion Elezi",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.35.0",
